@@ -813,24 +813,6 @@ body{
         width: 100%;
     }
 
-
-    /* Hamburger Menu Styles */
-.hamburger {
-    display: none;
-    cursor: pointer;
-    padding: 10px 15px;
-    z-index: 1001;
-}
-
-.hamburger .bar {
-    display: block;
-    width: 25px;
-    height: 3px;
-    background: #ffffff;
-    margin: 5px 0;
-    transition: all 0.3s ease;
-}
-
 /* Navigation Styles */
 .navbar {
     display: flex;
